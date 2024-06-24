@@ -1,2 +1,8 @@
 # Is-Yatirim-Veri-Kazima
-isyatirim.com.tr sitesinde yer alan şirketlerin verilerinin çekilmesi çalışmasıdır. 
+İş Yatırım sitesinde yer alan şirketlerin verilerinin çekilmesi çalışmasıdır. 
+
+Çalışmada Kullanılanlar:
+
+- BeautifulSoup
+- Requests
+- Time
